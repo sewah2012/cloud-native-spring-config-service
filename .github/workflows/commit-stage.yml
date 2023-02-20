@@ -5,7 +5,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: sewah2012/cloud-native-project-configs
+  IMAGE_NAME: sewah2012/cloud-native-spring-config-service
   VERSION: latest
 jobs:
   build:
